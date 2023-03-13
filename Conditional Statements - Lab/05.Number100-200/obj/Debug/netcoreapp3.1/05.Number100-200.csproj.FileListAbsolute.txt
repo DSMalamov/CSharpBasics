@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\05.Number100-200\bin\Debug\netcoreapp3.1\05.Number100-200.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\05.Number100-200\bin\Debug\netcoreapp3.1\05.Number100-200.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\05.Number100-200\bin\Debug\netcoreapp3.1\05.Number100-200.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\05.Number100-200\bin\Debug\netcoreapp3.1\05.Number100-200.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\05.Number100-200\bin\Debug\netcoreapp3.1\05.Number100-200.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\05.Number100-200\bin\Debug\netcoreapp3.1\05.Number100-200.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\05.Number100-200\obj\Debug\netcoreapp3.1\05.Number100-200.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\05.Number100-200\obj\Debug\netcoreapp3.1\05.Number100-200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\05.Number100-200\obj\Debug\netcoreapp3.1\05.Number100-200.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\05.Number100-200\obj\Debug\netcoreapp3.1\05.Number100-200.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\05.Number100-200\obj\Debug\netcoreapp3.1\05.Number100-200.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\05.Number100-200\obj\Debug\netcoreapp3.1\05.Number100-200.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\05.Number100-200\obj\Debug\netcoreapp3.1\05.Number100-200.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\05.Number100-200\obj\Debug\netcoreapp3.1\05.Number100-200.genruntimeconfig.cache

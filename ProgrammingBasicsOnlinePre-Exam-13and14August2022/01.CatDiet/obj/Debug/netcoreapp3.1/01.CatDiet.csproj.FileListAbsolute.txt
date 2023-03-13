@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\01.CatDiet\bin\Debug\netcoreapp3.1\01.CatDiet.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\01.CatDiet\bin\Debug\netcoreapp3.1\01.CatDiet.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\01.CatDiet\bin\Debug\netcoreapp3.1\01.CatDiet.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\01.CatDiet\bin\Debug\netcoreapp3.1\01.CatDiet.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\01.CatDiet\bin\Debug\netcoreapp3.1\01.CatDiet.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\01.CatDiet\bin\Debug\netcoreapp3.1\01.CatDiet.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\01.CatDiet\obj\Debug\netcoreapp3.1\01.CatDiet.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\01.CatDiet\obj\Debug\netcoreapp3.1\01.CatDiet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\01.CatDiet\obj\Debug\netcoreapp3.1\01.CatDiet.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\01.CatDiet\obj\Debug\netcoreapp3.1\01.CatDiet.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\01.CatDiet\obj\Debug\netcoreapp3.1\01.CatDiet.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\01.CatDiet\obj\Debug\netcoreapp3.1\01.CatDiet.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\01.CatDiet\obj\Debug\netcoreapp3.1\01.CatDiet.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\01.CatDiet\obj\Debug\netcoreapp3.1\01.CatDiet.genruntimeconfig.cache

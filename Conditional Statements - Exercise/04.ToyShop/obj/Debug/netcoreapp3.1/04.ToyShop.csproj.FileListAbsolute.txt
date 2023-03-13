@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.genruntimeconfig.cache

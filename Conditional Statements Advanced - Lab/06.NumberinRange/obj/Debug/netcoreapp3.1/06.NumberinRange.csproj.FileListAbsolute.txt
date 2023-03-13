@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\06.NumberinRange\bin\Debug\netcoreapp3.1\06.NumberinRange.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\06.NumberinRange\bin\Debug\netcoreapp3.1\06.NumberinRange.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\06.NumberinRange\bin\Debug\netcoreapp3.1\06.NumberinRange.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\06.NumberinRange\bin\Debug\netcoreapp3.1\06.NumberinRange.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\06.NumberinRange\bin\Debug\netcoreapp3.1\06.NumberinRange.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\06.NumberinRange\bin\Debug\netcoreapp3.1\06.NumberinRange.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\netcoreapp3.1\06.NumberinRange.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\netcoreapp3.1\06.NumberinRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\netcoreapp3.1\06.NumberinRange.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\netcoreapp3.1\06.NumberinRange.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\netcoreapp3.1\06.NumberinRange.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\netcoreapp3.1\06.NumberinRange.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\netcoreapp3.1\06.NumberinRange.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\netcoreapp3.1\06.NumberinRange.genruntimeconfig.cache

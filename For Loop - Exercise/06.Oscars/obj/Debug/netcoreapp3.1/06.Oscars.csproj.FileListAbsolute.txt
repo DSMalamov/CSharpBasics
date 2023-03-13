@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.genruntimeconfig.cache

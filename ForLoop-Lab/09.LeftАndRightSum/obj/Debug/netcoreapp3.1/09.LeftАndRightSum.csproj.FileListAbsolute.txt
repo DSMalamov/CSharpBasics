@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\09.LeftАndRightSum\bin\Debug\netcoreapp3.1\09.LeftАndRightSum.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\09.LeftАndRightSum\bin\Debug\netcoreapp3.1\09.LeftАndRightSum.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\09.LeftАndRightSum\bin\Debug\netcoreapp3.1\09.LeftАndRightSum.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\09.LeftАndRightSum\bin\Debug\netcoreapp3.1\09.LeftАndRightSum.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\09.LeftАndRightSum\bin\Debug\netcoreapp3.1\09.LeftАndRightSum.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\09.LeftАndRightSum\bin\Debug\netcoreapp3.1\09.LeftАndRightSum.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\09.LeftАndRightSum\obj\Debug\netcoreapp3.1\09.LeftАndRightSum.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\09.LeftАndRightSum\obj\Debug\netcoreapp3.1\09.LeftАndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\09.LeftАndRightSum\obj\Debug\netcoreapp3.1\09.LeftАndRightSum.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\09.LeftАndRightSum\obj\Debug\netcoreapp3.1\09.LeftАndRightSum.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\09.LeftАndRightSum\obj\Debug\netcoreapp3.1\09.LeftАndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\09.LeftАndRightSum\obj\Debug\netcoreapp3.1\09.LeftАndRightSum.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\09.LeftАndRightSum\obj\Debug\netcoreapp3.1\09.LeftАndRightSum.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\09.LeftАndRightSum\obj\Debug\netcoreapp3.1\09.LeftАndRightSum.genruntimeconfig.cache

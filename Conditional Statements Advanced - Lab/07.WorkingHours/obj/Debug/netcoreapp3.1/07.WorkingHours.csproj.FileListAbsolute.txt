@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.genruntimeconfig.cache

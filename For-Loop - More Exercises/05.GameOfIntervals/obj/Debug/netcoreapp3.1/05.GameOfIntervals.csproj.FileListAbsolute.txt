@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For-Loop - More Exercises\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For-Loop - More Exercises\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For-Loop - More Exercises\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For-Loop - More Exercises\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For-Loop - More Exercises\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For-Loop - More Exercises\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For-Loop - More Exercises\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For-Loop - More Exercises\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For-Loop - More Exercises\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For-Loop - More Exercises\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For-Loop - More Exercises\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For-Loop - More Exercises\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For-Loop - More Exercises\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For-Loop - More Exercises\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.genruntimeconfig.cache

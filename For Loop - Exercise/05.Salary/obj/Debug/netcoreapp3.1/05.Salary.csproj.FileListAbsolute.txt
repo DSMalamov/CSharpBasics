@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\05.Salary\bin\Debug\netcoreapp3.1\05.Salary.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\05.Salary\bin\Debug\netcoreapp3.1\05.Salary.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\05.Salary\bin\Debug\netcoreapp3.1\05.Salary.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\05.Salary\bin\Debug\netcoreapp3.1\05.Salary.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\05.Salary\bin\Debug\netcoreapp3.1\05.Salary.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\05.Salary\bin\Debug\netcoreapp3.1\05.Salary.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\05.Salary\obj\Debug\netcoreapp3.1\05.Salary.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\05.Salary\obj\Debug\netcoreapp3.1\05.Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\05.Salary\obj\Debug\netcoreapp3.1\05.Salary.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\05.Salary\obj\Debug\netcoreapp3.1\05.Salary.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\05.Salary\obj\Debug\netcoreapp3.1\05.Salary.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\05.Salary\obj\Debug\netcoreapp3.1\05.Salary.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\05.Salary\obj\Debug\netcoreapp3.1\05.Salary.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\05.Salary\obj\Debug\netcoreapp3.1\05.Salary.genruntimeconfig.cache

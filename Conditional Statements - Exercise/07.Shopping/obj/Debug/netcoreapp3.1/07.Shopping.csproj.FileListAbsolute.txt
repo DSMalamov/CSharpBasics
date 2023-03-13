@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.genruntimeconfig.cache

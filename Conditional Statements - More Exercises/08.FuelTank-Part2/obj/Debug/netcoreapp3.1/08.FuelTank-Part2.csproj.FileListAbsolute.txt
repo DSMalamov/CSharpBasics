@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.genruntimeconfig.cache

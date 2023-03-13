@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\05.SuppliesforSchool\bin\Debug\netcoreapp3.1\05.SuppliesforSchool.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\05.SuppliesforSchool\bin\Debug\netcoreapp3.1\05.SuppliesforSchool.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\05.SuppliesforSchool\bin\Debug\netcoreapp3.1\05.SuppliesforSchool.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\05.SuppliesforSchool\bin\Debug\netcoreapp3.1\05.SuppliesforSchool.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\05.SuppliesforSchool\bin\Debug\netcoreapp3.1\05.SuppliesforSchool.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\05.SuppliesforSchool\bin\Debug\netcoreapp3.1\05.SuppliesforSchool.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\netcoreapp3.1\05.SuppliesforSchool.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\netcoreapp3.1\05.SuppliesforSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\netcoreapp3.1\05.SuppliesforSchool.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\netcoreapp3.1\05.SuppliesforSchool.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\netcoreapp3.1\05.SuppliesforSchool.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\netcoreapp3.1\05.SuppliesforSchool.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\netcoreapp3.1\05.SuppliesforSchool.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\netcoreapp3.1\05.SuppliesforSchool.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.genruntimeconfig.cache

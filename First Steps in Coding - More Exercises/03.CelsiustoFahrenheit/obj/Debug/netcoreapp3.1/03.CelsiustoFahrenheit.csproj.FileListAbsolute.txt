@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps in Coding - More Exercises\03.CelsiustoFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiustoFahrenheit.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps in Coding - More Exercises\03.CelsiustoFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiustoFahrenheit.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps in Coding - More Exercises\03.CelsiustoFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiustoFahrenheit.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps in Coding - More Exercises\03.CelsiustoFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiustoFahrenheit.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps in Coding - More Exercises\03.CelsiustoFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiustoFahrenheit.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps in Coding - More Exercises\03.CelsiustoFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiustoFahrenheit.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps in Coding - More Exercises\03.CelsiustoFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiustoFahrenheit.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps in Coding - More Exercises\03.CelsiustoFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiustoFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps in Coding - More Exercises\03.CelsiustoFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiustoFahrenheit.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps in Coding - More Exercises\03.CelsiustoFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiustoFahrenheit.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps in Coding - More Exercises\03.CelsiustoFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiustoFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps in Coding - More Exercises\03.CelsiustoFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiustoFahrenheit.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps in Coding - More Exercises\03.CelsiustoFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiustoFahrenheit.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps in Coding - More Exercises\03.CelsiustoFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiustoFahrenheit.genruntimeconfig.cache

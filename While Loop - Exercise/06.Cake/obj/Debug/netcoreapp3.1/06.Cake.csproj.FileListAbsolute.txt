@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While Loop - Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While Loop - Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While Loop - Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While Loop - Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While Loop - Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While Loop - Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While Loop - Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While Loop - Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While Loop - Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While Loop - Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While Loop - Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While Loop - Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While Loop - Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While Loop - Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.genruntimeconfig.cache

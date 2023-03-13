@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.genruntimeconfig.cache

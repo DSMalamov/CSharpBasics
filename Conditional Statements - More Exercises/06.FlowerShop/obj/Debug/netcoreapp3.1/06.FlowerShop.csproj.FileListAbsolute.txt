@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\06.FlowerShop\bin\Debug\netcoreapp3.1\06.FlowerShop.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\06.FlowerShop\bin\Debug\netcoreapp3.1\06.FlowerShop.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\06.FlowerShop\bin\Debug\netcoreapp3.1\06.FlowerShop.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\06.FlowerShop\bin\Debug\netcoreapp3.1\06.FlowerShop.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\06.FlowerShop\bin\Debug\netcoreapp3.1\06.FlowerShop.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\06.FlowerShop\bin\Debug\netcoreapp3.1\06.FlowerShop.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\06.FlowerShop\obj\Debug\netcoreapp3.1\06.FlowerShop.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\06.FlowerShop\obj\Debug\netcoreapp3.1\06.FlowerShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\06.FlowerShop\obj\Debug\netcoreapp3.1\06.FlowerShop.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\06.FlowerShop\obj\Debug\netcoreapp3.1\06.FlowerShop.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\06.FlowerShop\obj\Debug\netcoreapp3.1\06.FlowerShop.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\06.FlowerShop\obj\Debug\netcoreapp3.1\06.FlowerShop.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\06.FlowerShop\obj\Debug\netcoreapp3.1\06.FlowerShop.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - More Exercises\06.FlowerShop\obj\Debug\netcoreapp3.1\06.FlowerShop.genruntimeconfig.cache

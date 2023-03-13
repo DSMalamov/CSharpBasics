@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\03. OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03. OscarsWeekInCinema.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\03. OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03. OscarsWeekInCinema.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\03. OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03. OscarsWeekInCinema.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\03. OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03. OscarsWeekInCinema.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\03. OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03. OscarsWeekInCinema.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\03. OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03. OscarsWeekInCinema.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\03. OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03. OscarsWeekInCinema.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\03. OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03. OscarsWeekInCinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\03. OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03. OscarsWeekInCinema.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\03. OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03. OscarsWeekInCinema.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\03. OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03. OscarsWeekInCinema.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\03. OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03. OscarsWeekInCinema.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\03. OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03. OscarsWeekInCinema.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\03. OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03. OscarsWeekInCinema.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\05.1.SpecialNumbers2\bin\Debug\netcoreapp3.1\05.1.SpecialNumbers2.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\05.1.SpecialNumbers2\bin\Debug\netcoreapp3.1\05.1.SpecialNumbers2.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\05.1.SpecialNumbers2\bin\Debug\netcoreapp3.1\05.1.SpecialNumbers2.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\05.1.SpecialNumbers2\bin\Debug\netcoreapp3.1\05.1.SpecialNumbers2.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\05.1.SpecialNumbers2\bin\Debug\netcoreapp3.1\05.1.SpecialNumbers2.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\05.1.SpecialNumbers2\bin\Debug\netcoreapp3.1\05.1.SpecialNumbers2.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\05.1.SpecialNumbers2\obj\Debug\netcoreapp3.1\05.1.SpecialNumbers2.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\05.1.SpecialNumbers2\obj\Debug\netcoreapp3.1\05.1.SpecialNumbers2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\05.1.SpecialNumbers2\obj\Debug\netcoreapp3.1\05.1.SpecialNumbers2.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\05.1.SpecialNumbers2\obj\Debug\netcoreapp3.1\05.1.SpecialNumbers2.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\05.1.SpecialNumbers2\obj\Debug\netcoreapp3.1\05.1.SpecialNumbers2.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\05.1.SpecialNumbers2\obj\Debug\netcoreapp3.1\05.1.SpecialNumbers2.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\05.1.SpecialNumbers2\obj\Debug\netcoreapp3.1\05.1.SpecialNumbers2.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\05.1.SpecialNumbers2\obj\Debug\netcoreapp3.1\05.1.SpecialNumbers2.genruntimeconfig.cache

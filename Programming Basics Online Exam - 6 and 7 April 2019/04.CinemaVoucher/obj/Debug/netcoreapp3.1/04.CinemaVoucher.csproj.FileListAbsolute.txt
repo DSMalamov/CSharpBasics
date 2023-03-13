@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.genruntimeconfig.cache

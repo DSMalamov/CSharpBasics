@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\04.SumofTwoNumbers\bin\Debug\netcoreapp3.1\04.SumofTwoNumbers.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\04.SumofTwoNumbers\bin\Debug\netcoreapp3.1\04.SumofTwoNumbers.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\04.SumofTwoNumbers\bin\Debug\netcoreapp3.1\04.SumofTwoNumbers.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\04.SumofTwoNumbers\bin\Debug\netcoreapp3.1\04.SumofTwoNumbers.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\04.SumofTwoNumbers\bin\Debug\netcoreapp3.1\04.SumofTwoNumbers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\04.SumofTwoNumbers\bin\Debug\netcoreapp3.1\04.SumofTwoNumbers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\04.SumofTwoNumbers\obj\Debug\netcoreapp3.1\04.SumofTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\04.SumofTwoNumbers\obj\Debug\netcoreapp3.1\04.SumofTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\04.SumofTwoNumbers\obj\Debug\netcoreapp3.1\04.SumofTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\04.SumofTwoNumbers\obj\Debug\netcoreapp3.1\04.SumofTwoNumbers.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\04.SumofTwoNumbers\obj\Debug\netcoreapp3.1\04.SumofTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\04.SumofTwoNumbers\obj\Debug\netcoreapp3.1\04.SumofTwoNumbers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\04.SumofTwoNumbers\obj\Debug\netcoreapp3.1\04.SumofTwoNumbers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\04.SumofTwoNumbers\obj\Debug\netcoreapp3.1\04.SumofTwoNumbers.genruntimeconfig.cache

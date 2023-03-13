@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ForLoop-Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.genruntimeconfig.cache

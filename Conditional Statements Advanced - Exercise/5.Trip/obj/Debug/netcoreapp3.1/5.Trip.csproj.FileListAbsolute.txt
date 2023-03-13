@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\5.Trip\bin\Debug\netcoreapp3.1\5.Trip.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\5.Trip\bin\Debug\netcoreapp3.1\5.Trip.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\5.Trip\bin\Debug\netcoreapp3.1\5.Trip.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\5.Trip\bin\Debug\netcoreapp3.1\5.Trip.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\5.Trip\bin\Debug\netcoreapp3.1\5.Trip.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\5.Trip\bin\Debug\netcoreapp3.1\5.Trip.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\5.Trip\obj\Debug\netcoreapp3.1\5.Trip.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\5.Trip\obj\Debug\netcoreapp3.1\5.Trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\5.Trip\obj\Debug\netcoreapp3.1\5.Trip.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\5.Trip\obj\Debug\netcoreapp3.1\5.Trip.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\5.Trip\obj\Debug\netcoreapp3.1\5.Trip.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\5.Trip\obj\Debug\netcoreapp3.1\5.Trip.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\5.Trip\obj\Debug\netcoreapp3.1\5.Trip.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Exercise\5.Trip\obj\Debug\netcoreapp3.1\5.Trip.genruntimeconfig.cache

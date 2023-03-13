@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.genruntimeconfig.cache

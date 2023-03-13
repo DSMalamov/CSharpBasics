@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.genruntimeconfig.cache

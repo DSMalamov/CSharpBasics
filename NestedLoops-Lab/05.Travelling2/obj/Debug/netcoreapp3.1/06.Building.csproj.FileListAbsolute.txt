@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\05.Travelling2\bin\Debug\netcoreapp3.1\06.Building.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\05.Travelling2\bin\Debug\netcoreapp3.1\06.Building.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\05.Travelling2\bin\Debug\netcoreapp3.1\06.Building.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\05.Travelling2\bin\Debug\netcoreapp3.1\06.Building.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\05.Travelling2\bin\Debug\netcoreapp3.1\06.Building.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\05.Travelling2\bin\Debug\netcoreapp3.1\06.Building.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\05.Travelling2\obj\Debug\netcoreapp3.1\06.Building.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\05.Travelling2\obj\Debug\netcoreapp3.1\06.Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\05.Travelling2\obj\Debug\netcoreapp3.1\06.Building.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\05.Travelling2\obj\Debug\netcoreapp3.1\06.Building.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\05.Travelling2\obj\Debug\netcoreapp3.1\06.Building.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\05.Travelling2\obj\Debug\netcoreapp3.1\06.Building.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\05.Travelling2\obj\Debug\netcoreapp3.1\06.Building.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\NestedLoops-Lab\05.Travelling2\obj\Debug\netcoreapp3.1\06.Building.genruntimeconfig.cache

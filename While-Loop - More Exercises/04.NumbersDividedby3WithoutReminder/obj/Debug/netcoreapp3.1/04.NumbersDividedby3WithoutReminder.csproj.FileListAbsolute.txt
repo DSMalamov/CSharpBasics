@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While-Loop - More Exercises\04.NumbersDividedby3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedby3WithoutReminder.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While-Loop - More Exercises\04.NumbersDividedby3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedby3WithoutReminder.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While-Loop - More Exercises\04.NumbersDividedby3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedby3WithoutReminder.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While-Loop - More Exercises\04.NumbersDividedby3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedby3WithoutReminder.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While-Loop - More Exercises\04.NumbersDividedby3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedby3WithoutReminder.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While-Loop - More Exercises\04.NumbersDividedby3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedby3WithoutReminder.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While-Loop - More Exercises\04.NumbersDividedby3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedby3WithoutReminder.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While-Loop - More Exercises\04.NumbersDividedby3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedby3WithoutReminder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While-Loop - More Exercises\04.NumbersDividedby3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedby3WithoutReminder.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While-Loop - More Exercises\04.NumbersDividedby3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedby3WithoutReminder.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While-Loop - More Exercises\04.NumbersDividedby3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedby3WithoutReminder.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While-Loop - More Exercises\04.NumbersDividedby3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedby3WithoutReminder.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While-Loop - More Exercises\04.NumbersDividedby3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedby3WithoutReminder.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\While-Loop - More Exercises\04.NumbersDividedby3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedby3WithoutReminder.genruntimeconfig.cache

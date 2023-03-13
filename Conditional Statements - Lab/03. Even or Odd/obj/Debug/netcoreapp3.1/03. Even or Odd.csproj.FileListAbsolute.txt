@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements - Lab\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.genruntimeconfig.cache

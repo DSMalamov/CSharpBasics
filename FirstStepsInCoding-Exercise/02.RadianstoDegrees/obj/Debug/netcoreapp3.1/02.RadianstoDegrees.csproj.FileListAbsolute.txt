@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\For Loop - Exercise\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.genruntimeconfig.cache

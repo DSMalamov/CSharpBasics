@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\ProgrammingBasicsOnlinePre-Exam-13and14August2022\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.genruntimeconfig.cache

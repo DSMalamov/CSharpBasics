@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\02.WeekendorWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendorWorkingDay.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\02.WeekendorWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendorWorkingDay.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\02.WeekendorWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendorWorkingDay.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\02.WeekendorWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendorWorkingDay.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\02.WeekendorWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendorWorkingDay.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\02.WeekendorWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendorWorkingDay.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\02.WeekendorWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendorWorkingDay.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\02.WeekendorWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendorWorkingDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\02.WeekendorWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendorWorkingDay.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\02.WeekendorWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendorWorkingDay.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\02.WeekendorWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendorWorkingDay.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\02.WeekendorWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendorWorkingDay.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\02.WeekendorWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendorWorkingDay.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\Conditional Statements Advanced - Lab\02.WeekendorWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendorWorkingDay.genruntimeconfig.cache

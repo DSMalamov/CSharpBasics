@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps In Coding\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps In Coding\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps In Coding\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps In Coding\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps In Coding\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps In Coding\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps In Coding\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps In Coding\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps In Coding\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps In Coding\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps In Coding\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps In Coding\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps In Coding\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# basics\First Steps In Coding\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.genruntimeconfig.cache
